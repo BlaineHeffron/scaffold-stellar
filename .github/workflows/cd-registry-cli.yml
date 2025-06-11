@@ -1,4 +1,4 @@
-name: CD # Continuous Deployment
+name: CD # Continuous Deployment test
 
 permissions:
   # TODO: once `releases: write` is supported, use it instead.
